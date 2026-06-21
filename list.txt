@@ -1,7 +1,13 @@
+||ssp.rutube.ru^
+
 ||targetads.io^
 ||*.targetads.io^
 
-||rtbcdn.ru^
-||*.rtbcdn.ru^
+||adriver.ru^
+||*.adriver.ru^
 
-||ssp.rutube.ru^
+||telecid.ru^
+||*.telecid.ru^
+
+||tns-counter.ru^
+||*.tns-counter.ru^
