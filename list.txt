@@ -1,0 +1,7 @@
+||targetads.io^
+||*.targetads.io^
+
+||rtbcdn.ru^
+||*.rtbcdn.ru^
+
+||ssp.rutube.ru^
